@@ -27,7 +27,7 @@ Let’s practice and become familiar with regressions
 
 ### Level 2
 
-- Exercise 3: 
+- Exercise 5: 
   - Perform some variable engineering process to improve prediction
 
 ### Level 3
