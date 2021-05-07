@@ -79,7 +79,7 @@ target/
 /data/
 
 # exclude scripts from source control by default
-/scripts/
+#/scripts/
 
 # Mac OS-specific storage files
 .DS_Store
