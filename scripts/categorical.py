@@ -5,6 +5,7 @@ if new_path not in sys.path:
     sys.path.append(new_path)"""
 
 import pandas as pd 
+from sklearn.preprocessing import OrdinalEncoder
 
 def transform(df, var_name):
 
