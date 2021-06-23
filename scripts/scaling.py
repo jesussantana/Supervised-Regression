@@ -51,6 +51,19 @@ def transform_X_MinMax(X_train, column):
 
     return X_train_MinMax
 
+def transform_MinMax(X_train, X_test, column):
+
+    # fit on training data column
+    minmax = MinMaxScaler()
+    
+    # transform the training & Test data column
+    X_train_MinMax = minmax.fit_transform(X_train)
+    X_test_MinMax = minmax.fit_transform(X_test)
+
+    X_train_MinMax = pd.DataFrame(X_train_MinMax, columns = column)
+    X_test_MinMax = pd.DataFrame(X_test_MinMax, columns = column)
+
+    return X_train_MinMax, X_test_MinMax
 
 # Robust Scaler
 # ==============================================================================
