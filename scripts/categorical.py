@@ -1,8 +1,10 @@
 # Create Dummies
-#import sys
-"""new_path = '../scripts/'
-if new_path not in sys.path:
+# ==============================================================================
+""" import sys
+    new_path = '../scripts/'
+    if new_path not in sys.path:
     sys.path.append(new_path)"""
+# ==============================================================================
 
 import pandas as pd 
 from sklearn.preprocessing import OrdinalEncoder
@@ -14,5 +16,3 @@ def transform(df, var_name):
     df = pd.concat([df, dummy], axis = 1)
 
     return df
-
-
