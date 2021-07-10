@@ -1,9 +1,11 @@
-# [IT Academy - Data Science with Python](https://www.barcelonactiva.cat/es/itacademy)
-## [S12 T01: Supervised Regressions](https://github.com/jesussantana/Supervised-Regression/blob/main/notebooks/S12_T01_Supevised_Regression.ipynb)  
-
+# IT Academy - Data Science with Python
+## [S12 T01: Supervised Regression](https://github.com/jesussantana/Supervised-Regression/blob/main/notebooks/S12_T01_Supevised_Regression.ipynb) 
+### [Github Supervised Regression](https://github.com/jesussantana/Supervised-Regression) 
+### [Jesus Santana Github](https://github.com/jesussantana)
+### [Jesus Santana Linkedin](https://www.linkedin.com/in/chus-santana/)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)    
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) 
 
 ### Description
 
